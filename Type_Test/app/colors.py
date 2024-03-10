@@ -1,0 +1,5 @@
+BACKGROUND = "#323437"
+DEFAULT = "#535659"
+RIGHT = "#cdccc1"
+WRONG = "#b24450"
+STATS = "#cca719"
